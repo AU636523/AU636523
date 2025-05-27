@@ -10,13 +10,6 @@ This Portfolio showcases some Data Science and Data Analysis projects I have don
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
 
-#
-
-
-
-## Micro Projects
-- ### 1
-- [test](test.com) : In this file I...
 
 ## Core Competencies
 
