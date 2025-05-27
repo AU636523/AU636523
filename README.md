@@ -44,7 +44,7 @@ This Portfolio showcases some Data Science and Data Analysis projects I have don
 
 **Gained experience with**: Python, PyTorch, Docker, Git, Computer vision, generative AI, transfer learning, Unet
 
-## Mini Projects
+## Academic Mini Projects
 
 
 <img align="left" width="250" height="150" src="https://github.com/AU636523/salmon-price-forecasting/blob/main/images/thumb.png?raw=true"> 
