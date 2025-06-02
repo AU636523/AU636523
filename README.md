@@ -5,12 +5,16 @@ This Portfolio showcases some Data Science and Data Analysis projects I have don
 - **LinkedIn**: [https://www.linkedin.com/in/simon-fogh-thomsen-0830aa6a/](https://www.linkedin.com/in/simon-fogh-thomsen-0830aa6a/)
 
 ## Azure and Databricks Projects
-<img align="left" width="200" src=""> 
+<img align="left" width="200" src="https://github.com/AU636523/wholesale-recommender-azure/blob/main/images/thumb.png?raw=true"> 
 
-**[Glioblastoma Recurrence Pattern Classification](https://github.com/AU636523/glioblastoma-recurrence-patterns)**
+**Work in progress:** **[Wholesale Recommender Engine](https://github.com/AU636523/wholesale-recommender-azure)**
+An end-to-end recommendation engine built on the Azure stack, simulating a B2B use case. It includes customer-specific and item-based recommendations, a Dash-powered internal dashboard.
 
+I wish to demonstrate my skills on the Azure and Databricks platform through this project which I have tried to make as close to real production as possible without data from a real organization.
 
+To make it as realistic as possible, I have asked ChatGPT 4o to act as my product owner and provide me with user stories. From these I have listed features I wish to include in a MVP.
 
+# 
 
 ## Academic Projects
 
