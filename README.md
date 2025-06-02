@@ -64,7 +64,6 @@ To make it as realistic as possible, I have asked ChatGPT 4o to act as my produc
 **[Norwegian Salmon Price Forecasting](https://github.com/AU636523/salmon-price-forecasting)**
 
 This project explores whether future recurrence patterns of glioblastoma can be predicted from the original tumor on T1ce MRI using machine learning. The full pipeline includes preprocessing, UNet-based segmentation, radiomic extraction, PCA/autoencoders, and classification via XGBoost and MLP. Despite rigorous modeling on the largest known GBM recurrence dataset, no predictive signal was found. 
-[App](https://churn-prediction-app.herokuapp.com/)  
 
 #
 
