@@ -4,6 +4,14 @@ This Portfolio showcases some Data Science and Data Analysis projects I have don
 - **Email**: [fogh1990@gmail.com](fogh1990@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/simon-fogh-thomsen-0830aa6a/](https://www.linkedin.com/in/simon-fogh-thomsen-0830aa6a/)
 
+## Azure and Databricks Projects
+<img align="left" width="200" src=""> 
+
+**[Glioblastoma Recurrence Pattern Classification](https://github.com/AU636523/glioblastoma-recurrence-patterns)**
+
+
+
+
 ## Academic Projects
 
 <img align="left" width="200" src="https://github.com/AU636523/glioblastoma-recurrence-patterns/blob/main/images/thumb.png?raw=true"> 
