@@ -10,7 +10,7 @@ This Portfolio showcases some Data Science and Data Analysis projects I have don
 **Work in progress:** **[Wholesale Recommender Engine](https://github.com/AU636523/wholesale-recommender-azure)**
 An end-to-end recommendation engine built for the Azure stack, simulating a B2B use case. It includes customer-specific and item-based recommendations, and a Dash-powered internal dashboard.
 
-Tech stack: Build to be hosted on **Azure**. Data storage in parquet-formats ready for **data lake**. Pipeline in **Databricks** with **PySpark** and **MLlib** for data ingestion, retraining and batch scoring. **Plotly Dash** for visualization.
+**Tech stack**: Build to be hosted on **Azure**. Data storage in parquet-formats ready for **data lake**. Pipeline in **Databricks** with **PySpark** and **MLlib** for data ingestion, retraining and batch scoring. **Plotly Dash** for visualization.
 
 # 
 
