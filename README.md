@@ -8,11 +8,9 @@ This Portfolio showcases some Data Science and Data Analysis projects I have don
 <img align="left" width="200" src="https://github.com/AU636523/wholesale-recommender-azure/blob/main/images/thumb.png?raw=true"> 
 
 **Work in progress:** **[Wholesale Recommender Engine](https://github.com/AU636523/wholesale-recommender-azure)**
-An end-to-end recommendation engine built on the Azure stack, simulating a B2B use case. It includes customer-specific and item-based recommendations, a Dash-powered internal dashboard.
+An end-to-end recommendation engine built for the Azure stack, simulating a B2B use case. It includes customer-specific and item-based recommendations, and a Dash-powered internal dashboard.
 
-I wish to demonstrate my skills on the Azure and Databricks platform through this project which I have tried to make as close to real production as possible without data from a real organization.
-
-To make it as realistic as possible, I have asked ChatGPT 4o to act as my product owner and provide me with user stories. From these I have listed features I wish to include in a MVP.
+Tech stack: Build to be hosted on **Azure**. Data storage in parquet-formats ready for **data lake**. Pipeline in **Databricks** with **PySpark** and **MLlib** for data ingestion, retraining and batch scoring. **Plotly Dash** for visualization.
 
 # 
 
