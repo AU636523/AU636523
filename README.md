@@ -12,9 +12,10 @@ An end-to-end recommendation engine built for the Azure stack, simulating a B2B 
 
 **Tech stack**: Build to be hosted on **Azure**. Data storage in parquet-formats ready for **data lake**. Pipeline in **Databricks** with **PySpark** and **MLlib** for data ingestion, retraining and batch scoring. **Plotly Dash** for visualization.
 
-#
+
 
 #
+
 
 ## Academic Projects
 
