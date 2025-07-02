@@ -12,8 +12,6 @@ An end-to-end recommendation engine built for the Azure stack, simulating a B2B 
 
 **Tech stack**: Build to be hosted on **Azure**. Data storage in parquet-formats ready for **data lake**. Pipeline in **Databricks** with **PySpark** and **MLlib** for data ingestion, retraining and batch scoring. **Plotly Dash** for visualization.
 
-# 
-
 ## Academic Projects
 
 <img align="left" width="200" src="https://github.com/AU636523/glioblastoma-recurrence-patterns/blob/main/images/thumb.png?raw=true"> 
@@ -79,6 +77,6 @@ This project uses survival analysis on NSDUH data to model the risk factors infl
 
 ## Core Competencies
 
-- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Computer Vision, Statistics, Explainable AI, Hypothesis Testing and Experimentation Design, Big Data Analytics
+- **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Computer Vision, Statistics, Explainable AI, Big Data Analytics
 - **Languages**: Python (Pandas, Numpy, PyTorch, Scikit-Learn, Scipy, Matplotlib), SQL, C++
 - **Tools**: MS Azure Machine Learning Studio, Jupyter Notebook, Git, MS PowerBI, MS Excel
